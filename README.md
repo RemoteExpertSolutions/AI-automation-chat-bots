@@ -8,3 +8,6 @@ Watch the videos below to see the working of our AI Chatbots
 2: A store recommendation AI chatbot
 [Store Recommendation Chatbot](https://youtu.be/ppTv3C3BgWM)
 
+3: An AI Support Chatbot
+[Support Chatbot](https://youtu.be/rScwggQpdnU)
+
